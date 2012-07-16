@@ -1,0 +1,27 @@
+--- 
+cursor_positions: 
+  - :path: Procfile
+    :cursor_offset: 34
+    :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: Cakefile
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: package.json
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: config/session.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: config/routes.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: config/environments/development.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: config/environments/production.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: config/environments/test.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 17:25:00 -07:00
+files_to_retain: 0
