@@ -1,14 +1,5 @@
 --- 
 cursor_positions: 
-  - :path: Procfile
-    :cursor_offset: 34
-    :timestamp: 2012-07-15 17:25:00 -07:00
-  - :path: Cakefile
-    :cursor_offset: 0
-    :timestamp: 2012-07-15 17:25:00 -07:00
-  - :path: package.json
-    :cursor_offset: 0
-    :timestamp: 2012-07-15 17:25:00 -07:00
   - :path: config/session.coffee
     :cursor_offset: 0
     :timestamp: 2012-07-15 17:25:00 -07:00
@@ -24,4 +15,75 @@ cursor_positions:
   - :path: config/environments/test.coffee
     :cursor_offset: 0
     :timestamp: 2012-07-15 17:25:00 -07:00
+  - :path: README.md
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: .gitignore
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:41:07 -07:00
+  - :path: Cakefile
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: test/client.coffee
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: test/mocha.opts
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: test/server.coffee
+    :cursor_offset: 202
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: package.json
+    :cursor_offset: 2226
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: Watchfile
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: Procfile
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:08 -07:00
+  - :path: config.json
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 22:02:07 -07:00
+  - :path: vendor/javascripts/ember.js
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:10 -07:00
+  - :path: vendor/stylesheets/mocha.css
+    :cursor_offset: 0
+    :timestamp: 2012-07-15 21:38:09 -07:00
+  - :path: server.js
+    :cursor_offset: 40
+    :timestamp: 2012-07-15 21:38:08 -07:00
+    :selection_offset: 35
+    :block_selection_mode: false
+  - :path: node_modules/tower/lib/tower.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/application.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/tasks.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/store.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/model.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/middleware.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/mailer.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/generator.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: node_modules/tower/lib/tower/server/controller.js
+    :cursor_offset: 0
+    :timestamp: 2012-05-02 09:28:10 -07:00
+  - :path: config/application.coffee
+    :cursor_offset: 751
+    :timestamp: 2012-07-15 21:38:08 -07:00
 files_to_retain: 0
